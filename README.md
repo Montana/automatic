@@ -9,5 +9,3 @@ Clone repo
 chmod the script, and you should be fine. You could also set a button press event, via
 
 <pre>xsendkeys Shift_L</pre> 
-
-Written by Montana Mendy, out of frustration 
