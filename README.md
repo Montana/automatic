@@ -1,6 +1,6 @@
 <h1 align="center">Automatic</h1>
 
-Hate when you're binge watching a movie on your computer and you have to get up and tell Netflix/Hulu you're present? This should fix that. Written by Montana Mendy
+Hate when you're binge watching a movie/TV shows on your computer and you have to get up and tell Netflix/Hulu you're present? This should fix that. Written by Montana Mendy
 
 Clone repo
 
