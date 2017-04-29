@@ -4,7 +4,7 @@ Hate when you're binge watching a movie on your computer and you have to get up 
 
 Clone repo
 
-<pre>git clone http://www.github.com/Montana/automatic 
+<pre>git clone http://www.github.com/Montana/automatic</pre>
 
 chmod the script, and you should be fine
 
